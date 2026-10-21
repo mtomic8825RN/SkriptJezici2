@@ -1,4 +1,4 @@
-```vue
+
 <template>
   <nav class="navbar navbar-expand-lg px-4" style="background-color: #222831; border-bottom: 3px solid #00adb5;">
     <RouterLink to="/home" class="navbar-brand text-white fw-bold">
